@@ -13,6 +13,4 @@ This project provides a RESTful API built with **FastAPI** to analyze Egyptian a
 Clone the repository and install dependencies:
 ```bash
 git clone this repo
-cd arabic-ner-api
-pip install -r requirements.txt
 uvicorn main:app --reload
